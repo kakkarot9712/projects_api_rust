@@ -1,11 +1,8 @@
+# Note
+The [Portfolio](https://vikalpg.in) website is not using this backend anymore as the Codebase of the portfolio is switched to NextJS and all basic APIs are integrated into Portfolio Projects itself.
+
 # Portfolio API
-
-Simple API to retrieve stored portfolio metadata from database using supported endpoints, created using Rust, Actix, mongoDB for database.
-
-This API is used in my [Portfolio](https://vikalpg.in) Website.
-<br />
-
-To check the API that is used in the Portfolio Website take url `https://vikalpg.in/api/v1` as a base url and then you can test the below endpoints.
+Simple API to retrieve stored portfolio metadata from database using supported endpoints, created using Rust, Actix, MongoDB for the database.
 
 # Supported Endpoints
 
